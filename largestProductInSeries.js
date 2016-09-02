@@ -8,7 +8,7 @@ for( i=4 ; i<996 ; i++ ){
 	for( j=i ; j<i+4 ; j++ ){
 		currentProduct*=number[j];
 	}
-	maxProduct= (currentProduct>maxProduct)?currentProduct:maxProduct;
+	maxProduct= (currentProduct>maxProduct)?currentProducst:maxProduct;
 }
 
 console.log(maxProduct);
